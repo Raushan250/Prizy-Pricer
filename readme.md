@@ -1,13 +1,12 @@
 Clone Project
 -------------
-git clone https://github.com/guptasujeet/dynamic-pricer.git
+git clone https://github.com/Raushan250/Prizy-Pricer.git
 
 
 App Usage
 ---------
 cd demo <br>
 mvn clean install <br>
-java -jar target/dynamic-pricer-1.1.8.RELEASE.jar <br> 
 
 
 Save Product
