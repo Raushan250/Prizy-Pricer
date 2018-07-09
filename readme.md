@@ -3,7 +3,10 @@ Clone Project
 git clone https://github.com/Raushan250/Prizy-Pricer.git
 
 It is built using Spring Tool Suite and Spring boot version 2.
-It is running correctly in my local 
+It is running correctly in my local.If you are getting error.
+
+Please make sure you are ruuning this in STS with spring boot 2.
+Because I have tested this onli in STS.
 
 
 Save Product
