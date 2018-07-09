@@ -2,11 +2,8 @@ Clone Project
 -------------
 git clone https://github.com/Raushan250/Prizy-Pricer.git
 
-
-App Usage
----------
-cd demo <br>
-mvn clean install <br>
+It is buit using Spring Tool Suite and SPring boot version 2.
+It is running correctly in my local 
 
 
 Save Product
@@ -39,8 +36,6 @@ curl -v -X GET http://localhost:8080/productSurvey/1
 
 Get Price Details
 -----------------
-
-http://localhost:8080/getProductPriceDetails/barcode <br>
 curl -v -X GET http://localhost:8080/product/getProductPriceDetails/B1234 
 
 
